@@ -1,0 +1,5 @@
+exclude: [
+  'webpack.config.js',
+  'README.md',
+  'package.json',
+  'node_modules']
